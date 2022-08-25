@@ -83,7 +83,7 @@ public partial class MainWindow : Window
     }
 
     /// <summary>
-    /// handles a button click even
+    /// handles a button click event
     /// </summary>
     /// <param name="sender">The button that was clicked</param>
     /// <param name="e">The result of the click</param>
